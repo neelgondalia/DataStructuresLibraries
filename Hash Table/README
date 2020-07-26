@@ -1,0 +1,23 @@
+*************************************
+        TERMINAL COMMANDS
+*************************************
+
+To compile and run my test:
+
+    to compile, type: make
+    to run, type: bin/test
+
+To run the cpp check:
+
+    type make cppcheck
+
+To clean the bin
+
+    type make clean
+
+
+*************************************
+                NOTES
+*************************************
+
+1) method of use for collision is random probing. The table size needs to be a prime number for the efficiency of the hash function. 

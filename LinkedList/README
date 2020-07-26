@@ -1,0 +1,13 @@
+To compile and run the unit test:
+	
+	type make test
+	to run, type: bin/test
+	
+To run the cpp check:
+	
+	type make cppcheck
+
+To clean the bin
+
+	type make clean
+	
